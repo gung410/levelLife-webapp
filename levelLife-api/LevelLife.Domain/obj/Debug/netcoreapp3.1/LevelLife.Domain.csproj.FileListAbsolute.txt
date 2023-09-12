@@ -1,0 +1,16 @@
+H:\Projects\LevelLife\levelLife-webapp\levelLife-api\LevelLife.Domain\bin\Debug\netcoreapp3.1\LevelLife.Domain.deps.json
+H:\Projects\LevelLife\levelLife-webapp\levelLife-api\LevelLife.Domain\bin\Debug\netcoreapp3.1\LevelLife.Domain.dll
+H:\Projects\LevelLife\levelLife-webapp\levelLife-api\LevelLife.Domain\bin\Debug\netcoreapp3.1\LevelLife.Domain.pdb
+H:\Projects\LevelLife\levelLife-webapp\levelLife-api\LevelLife.Domain\obj\Debug\netcoreapp3.1\LevelLife.Domain.GeneratedMSBuildEditorConfig.editorconfig
+H:\Projects\LevelLife\levelLife-webapp\levelLife-api\LevelLife.Domain\obj\Debug\netcoreapp3.1\LevelLife.Domain.AssemblyInfoInputs.cache
+H:\Projects\LevelLife\levelLife-webapp\levelLife-api\LevelLife.Domain\obj\Debug\netcoreapp3.1\LevelLife.Domain.AssemblyInfo.cs
+H:\Projects\LevelLife\levelLife-webapp\levelLife-api\LevelLife.Domain\obj\Debug\netcoreapp3.1\LevelLife.Domain.csproj.CoreCompileInputs.cache
+H:\Projects\LevelLife\levelLife-webapp\levelLife-api\LevelLife.Domain\obj\Debug\netcoreapp3.1\staticwebassets\LevelLife.Domain.StaticWebAssets.Manifest.cache
+H:\Projects\LevelLife\levelLife-webapp\levelLife-api\LevelLife.Domain\obj\Debug\netcoreapp3.1\staticwebassets\LevelLife.Domain.StaticWebAssets.Pack.cache
+H:\Projects\LevelLife\levelLife-webapp\levelLife-api\LevelLife.Domain\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.LevelLife.Domain.Microsoft.AspNetCore.StaticWebAssets.props
+H:\Projects\LevelLife\levelLife-webapp\levelLife-api\LevelLife.Domain\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.LevelLife.Domain.props
+H:\Projects\LevelLife\levelLife-webapp\levelLife-api\LevelLife.Domain\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.LevelLife.Domain.props
+H:\Projects\LevelLife\levelLife-webapp\levelLife-api\LevelLife.Domain\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.LevelLife.Domain.props
+H:\Projects\LevelLife\levelLife-webapp\levelLife-api\LevelLife.Domain\obj\Debug\netcoreapp3.1\LevelLife.Domain.RazorTargetAssemblyInfo.cache
+H:\Projects\LevelLife\levelLife-webapp\levelLife-api\LevelLife.Domain\obj\Debug\netcoreapp3.1\LevelLife.Domain.dll
+H:\Projects\LevelLife\levelLife-webapp\levelLife-api\LevelLife.Domain\obj\Debug\netcoreapp3.1\LevelLife.Domain.pdb
