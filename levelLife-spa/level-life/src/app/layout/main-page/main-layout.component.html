@@ -1,0 +1,25 @@
+<mat-drawer-container class="example-container" autosize>
+  <mat-drawer #drawer class="example-sidenav" mode="side">
+    <div class="example-sidenav-btn">
+      <button mat-raised-button>
+        Toggle extra text
+      </button>
+      <button mat-raised-button>
+        Toggle extra
+      </button>
+      <button mat-raised-button>
+        Toggle
+      </button>
+    </div>
+  </mat-drawer>
+  <div class="example-sidenav-content">
+    <button type="button" class="btn-title" mat-button (click)="drawer.toggle()">
+      Level life
+    </button>
+    <app-task-list></app-task-list>
+  </div>
+  <div class="example-sidenav-content">
+    <app-task-list></app-task-list>
+  </div>
+</mat-drawer-container>
+ <app-footer></app-footer>

@@ -1,0 +1,34 @@
+.example-container {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  /* Các thuộc tính CSS khác */
+}
+.mat-drawer-content  {
+  overflow: hidden !important;
+}
+.btn-title {
+  font-size: 44px;
+  font-style: oblique;
+  font-family: cursive;
+}
+.example-sidenav-content {
+  display: flex;
+  height: 100%;
+  align-items: top;
+  justify-content: flex-start;
+  flex-direction: column;
+  padding: 2%;
+  background-color: #fffeed;
+
+}
+.example-sidenav {
+  padding: 20px;
+  font-family: cursive;
+  background-color: rgb(255, 246, 104) !important;
+  .example-sidenav-btn {
+    display: flex;
+    flex-direction: column;
+  }
+}
+
