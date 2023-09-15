@@ -98,3 +98,12 @@ H:\Projects\LevelLife\levelLife-webapp\levelLife-api\LevelLife.API\obj\Debug\net
 H:\Projects\LevelLife\levelLife-webapp\levelLife-api\LevelLife.API\obj\Debug\netcoreapp3.1\LevelLife.API.dll
 H:\Projects\LevelLife\levelLife-webapp\levelLife-api\LevelLife.API\obj\Debug\netcoreapp3.1\LevelLife.API.pdb
 H:\Projects\LevelLife\levelLife-webapp\levelLife-api\LevelLife.API\obj\Debug\netcoreapp3.1\LevelLife.API.genruntimeconfig.cache
+H:\Projects\LevelLife\levelLife-webapp\levelLife-api\LevelLife.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Abstractions.dll
+H:\Projects\LevelLife\levelLife-webapp\levelLife-api\LevelLife.API\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+H:\Projects\LevelLife\levelLife-webapp\levelLife-api\LevelLife.API\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+H:\Projects\LevelLife\levelLife-webapp\levelLife-api\LevelLife.API\bin\Debug\netcoreapp3.1\BCrypt.Net-Next.dll
+H:\Projects\LevelLife\levelLife-webapp\levelLife-api\LevelLife.API\bin\Debug\netcoreapp3.1\LevelLife.Application.dll
+H:\Projects\LevelLife\levelLife-webapp\levelLife-api\LevelLife.API\bin\Debug\netcoreapp3.1\LevelLife.Application.pdb
+H:\Projects\LevelLife\levelLife-webapp\levelLife-api\LevelLife.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+H:\Projects\LevelLife\levelLife-webapp\levelLife-api\LevelLife.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+H:\Projects\LevelLife\levelLife-webapp\levelLife-api\LevelLife.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll

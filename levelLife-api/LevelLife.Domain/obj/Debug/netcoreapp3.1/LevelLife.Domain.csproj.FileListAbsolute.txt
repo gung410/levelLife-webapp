@@ -14,3 +14,4 @@ H:\Projects\LevelLife\levelLife-webapp\levelLife-api\LevelLife.Domain\obj\Debug\
 H:\Projects\LevelLife\levelLife-webapp\levelLife-api\LevelLife.Domain\obj\Debug\netcoreapp3.1\LevelLife.Domain.RazorTargetAssemblyInfo.cache
 H:\Projects\LevelLife\levelLife-webapp\levelLife-api\LevelLife.Domain\obj\Debug\netcoreapp3.1\LevelLife.Domain.dll
 H:\Projects\LevelLife\levelLife-webapp\levelLife-api\LevelLife.Domain\obj\Debug\netcoreapp3.1\LevelLife.Domain.pdb
+H:\Projects\LevelLife\levelLife-webapp\levelLife-api\LevelLife.Domain\obj\Debug\netcoreapp3.1\LevelLife.Domain.csproj.AssemblyReference.cache

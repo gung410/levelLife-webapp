@@ -6,4 +6,8 @@
     <OutputType>Library</OutputType>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\LevelLife.Domain\LevelLife.Domain.csproj" />
+  </ItemGroup>
+
 </Project>

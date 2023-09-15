@@ -1,8 +1,18 @@
 {
   "version": 2,
-  "dgSpecHash": "1uuxSKdMksfddITpPcp2nqCbWOUGEXKwLhQoGhOr4Z2Lr9SBRvQdKLVoXbf0XfqBLv3MWCQjHuff94uUoUIjPA==",
+  "dgSpecHash": "w/2IAMHXk85Og6k5UqljNSEqRPxMRjtpqJXOYK9KyN6I0frmYOM2OoH/U82j92X/kQUhuhp41oCqcON3ilngNA==",
   "success": true,
   "projectFilePath": "H:\\Projects\\LevelLife\\levelLife-webapp\\levelLife-api\\LevelLife.Application\\LevelLife.Application.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\nlhuy\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\nlhuy\\.nuget\\packages\\microsoft.identitymodel.abstractions\\7.0.0\\microsoft.identitymodel.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\nlhuy\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\7.0.0\\microsoft.identitymodel.jsonwebtokens.7.0.0.nupkg.sha512",
+    "C:\\Users\\nlhuy\\.nuget\\packages\\microsoft.identitymodel.logging\\7.0.0\\microsoft.identitymodel.logging.7.0.0.nupkg.sha512",
+    "C:\\Users\\nlhuy\\.nuget\\packages\\microsoft.identitymodel.tokens\\7.0.0\\microsoft.identitymodel.tokens.7.0.0.nupkg.sha512",
+    "C:\\Users\\nlhuy\\.nuget\\packages\\system.identitymodel.tokens.jwt\\7.0.0\\system.identitymodel.tokens.jwt.7.0.0.nupkg.sha512",
+    "C:\\Users\\nlhuy\\.nuget\\packages\\system.security.cryptography.cng\\4.5.0\\system.security.cryptography.cng.4.5.0.nupkg.sha512",
+    "C:\\Users\\nlhuy\\.nuget\\packages\\system.text.encodings.web\\4.7.2\\system.text.encodings.web.4.7.2.nupkg.sha512",
+    "C:\\Users\\nlhuy\\.nuget\\packages\\system.text.json\\4.7.2\\system.text.json.4.7.2.nupkg.sha512"
+  ],
   "logs": []
 }
