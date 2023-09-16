@@ -1,0 +1,156 @@
+{
+  "format": 1,
+  "restore": {
+    "H:\\Projects\\LevelLife\\levelLife-webapp\\levelLife-api\\LevelLife.Infrastructure\\LevelLife.Infrastructure.csproj": {}
+  },
+  "projects": {
+    "H:\\Projects\\LevelLife\\levelLife-webapp\\levelLife-api\\LevelLife.Domain\\LevelLife.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "H:\\Projects\\LevelLife\\levelLife-webapp\\levelLife-api\\LevelLife.Domain\\LevelLife.Domain.csproj",
+        "projectName": "LevelLife.Domain",
+        "projectPath": "H:\\Projects\\LevelLife\\levelLife-webapp\\levelLife-api\\LevelLife.Domain\\LevelLife.Domain.csproj",
+        "packagesPath": "C:\\Users\\nlhuy\\.nuget\\packages\\",
+        "outputPath": "H:\\Projects\\LevelLife\\levelLife-webapp\\levelLife-api\\LevelLife.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\nlhuy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.IdentityModel.Tokens": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "H:\\Projects\\LevelLife\\levelLife-webapp\\levelLife-api\\LevelLife.Infrastructure\\LevelLife.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "H:\\Projects\\LevelLife\\levelLife-webapp\\levelLife-api\\LevelLife.Infrastructure\\LevelLife.Infrastructure.csproj",
+        "projectName": "LevelLife.Infrastructure",
+        "projectPath": "H:\\Projects\\LevelLife\\levelLife-webapp\\levelLife-api\\LevelLife.Infrastructure\\LevelLife.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\nlhuy\\.nuget\\packages\\",
+        "outputPath": "H:\\Projects\\LevelLife\\levelLife-webapp\\levelLife-api\\LevelLife.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\nlhuy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "H:\\Projects\\LevelLife\\levelLife-webapp\\levelLife-api\\LevelLife.Domain\\LevelLife.Domain.csproj": {
+                "projectPath": "H:\\Projects\\LevelLife\\levelLife-webapp\\levelLife-api\\LevelLife.Domain\\LevelLife.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "BCrypt.Net-Next": {
+              "target": "Package",
+              "version": "[4.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "target": "Package",
+              "version": "[5.0.10, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[5.0.10, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
