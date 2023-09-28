@@ -3,4 +3,12 @@ html, body {
   height: 100%;
   margin: 0;
   padding: 0;
+  color: black;
+}
+
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
+
+.mdc-button .mdc-button__label{
+  color: black !important;
 }

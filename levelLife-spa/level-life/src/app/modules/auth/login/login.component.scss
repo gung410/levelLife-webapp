@@ -1,0 +1,73 @@
+@import "~@angular/material/prebuilt-themes/deeppurple-amber.css";
+
+* {
+  box-sizing: border-box;
+}
+:host {
+  display: flex;
+  justify-content: center;
+  margin: 100px 0px;
+}
+
+mat-form-field {
+  width: 100%;
+  min-width: 300px;
+  color: antiquewhite;
+  .mdc-text-field{
+    background-color: aqua;
+  }
+}
+
+mat-card-title,
+mat-card-content {
+  display: flex;
+  justify-content: center;
+}
+
+.error {
+  padding: 16px;
+  width: 300px;
+  color: white;
+  background-color: red;
+}
+
+.button {
+  display: flex;
+  justify-content: flex-end;
+}
+.input-container {
+  position: relative;
+  padding: 1em;
+}
+
+.input-label {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-size: 16px;
+  color: #aaa;
+  transition: 0.3s ease;
+}
+
+.input-field {
+  width: 100%;
+  border: none;
+  border-bottom: 2px solid #aaa;
+  font-size: 16px;
+  padding: 8px 0;
+  padding-left: 0;
+  transition: border 0.3s ease;
+  margin-bottom: 1em;
+}
+
+.input-field:focus {
+  border-bottom: 2px solid #007BFF;
+  outline: #007BFF;
+}
+
+.input-field:focus + .input-label,
+.input-field:not(:placeholder-shown) + .input-label {
+  top: -20px;
+  font-size: 12px;
+  color: #007BFF;
+}
